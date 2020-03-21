@@ -57,11 +57,6 @@ function generatePassword() {
       result = result + storage[Math.floor(Math.random()*storage.length)];   
   }
   
-  console.log(passwordLength);
-  console.log(storage);
-  console.log(storage.length);
-  console.log(result);
-
   return result;
    
 }
