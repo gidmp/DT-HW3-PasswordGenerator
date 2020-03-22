@@ -1,5 +1,6 @@
 # DT-HW3-PasswordGenerator
-Homework 3 of UW coding bootcamp
+Homework 3 of UW coding bootcamp 
+link: https://gidmp.github.io/DT-HW3-PasswordGenerator/
 
 In this homework, the goal is to manipulate javascript using Visual Studio Code in order to create a random password generator where the user are given freedom to choose what kind of characters used as the building block.
 
